@@ -5,9 +5,6 @@ subject: World
 
 WJD is trying to be an eleventy developer!
 
-- [Markdown](/docs/languages/markdown/)
-- [Liquid](/docs/languages/liquid/)
-
 ## Posts
 
 {%- for post in collections.posts %}

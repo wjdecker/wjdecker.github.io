@@ -11,4 +11,3 @@ WJD is trying to be an eleventy developer!
 - [{{ post.data.title }}]({{ post.url}})
 {%- endfor %}
 
-_Built with {{ eleventy.generator }}_

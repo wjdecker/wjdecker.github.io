@@ -1,10 +1,17 @@
 ---
 subject: World
 layout: base.njk
+mermaid: true
 ---
 # Hello {{ subject }}
 
-WJD is trying to be an eleventy developer!
+WJD is trying to take Obsidian mardown to a web page!
+
+```mermaid
+  info
+```
+
+
 
 ~~~mermaid
 flowchart TD

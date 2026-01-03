@@ -1,3 +1,42 @@
-<h1>Hello World</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plugin Test Page</title>
+</head>
+<body>
+  <h1>Hello World</h1>
 <p>WJD is trying to be an eleventy developer!</p>
-<h2>Posts</h2>
+<pre><code class="language-mermaid"><div class="mermaid graph">flowchart TD
+
+subgraph 2022
+&#x9;A(&#x22;a&#x22;)
+&#x9;F(&#x22;f&#x22;)
+end
+
+subgraph 2023
+&#x9;B(&#x22;b&#x22;)
+end
+
+subgraph 2024
+&#x9;C(&#x22;c&#x22;)
+&#x9;D(&#x22;d&#x22;)
+end
+
+subgraph 2025
+&#x9;E(&#x22;e&#x22;)
+end
+
+A --&#x3E; B --&#x3E; D --&#x3E; E
+A --&#x3E; C --&#x3E; D
+A --&#x3E; D
+F-.-&#x3E;|unconfirmed| D
+
+class A,B,C,D,E,F internal-link;
+</div></code></pre>
+
+  <!-- MERMAID -->
+  <script type="module" async>import mermaid from "https://unpkg.com/mermaid@11.11.0/dist/mermaid.esm.min.mjs";document.addEventListener('DOMContentLoaded', mermaid.initialize({"startOnLoad":true,"theme":"forest","loadOnSave":true}));</script>
+</body>
+</html>

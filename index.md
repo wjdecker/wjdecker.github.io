@@ -5,7 +5,7 @@ mermaid: true
 ---
 # Hello {{ subject }}
 
-WJD is trying to take Obsidian mardown to a web page!
+WJD is trying to take Obsidian markdown to a web page!
 
 ```mermaid
   info

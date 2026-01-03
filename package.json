@@ -6,13 +6,13 @@
   "main": "mermaid-11ty.js",
   "type": "module",
   "scripts": {
-    "dev": "npx @11ty/eleventy --input=dev --output=docs --serve --watch",
-    "build": "npx @11ty/eleventy --input=dev --output=docs",
+    "dev": "npx @11ty/eleventy --input=. --output=docs --serve --watch",
+    "build": "npx @11ty/eleventy --input=. --output=docs",
     "bump": "npm --no-git-tag-version version"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KevinGimbel/eleventy-plugin-mermaid.git"
+    "url": "git+https://github.com/wjdecker/wjdecker.github.io.git"
   },
   "keywords": [
     "11ty",

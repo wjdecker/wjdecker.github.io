@@ -4,7 +4,6 @@ layout: ../layouts/BaseLayout.astro
 
 ---
 
-This is an attempt to create a markdown website for WJD.
 
 ```mermaid
 graph TB

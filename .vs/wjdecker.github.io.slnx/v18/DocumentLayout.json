@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\layouts\\BaseLayout.astro||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\BaseLayout.astro||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\contact.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\contact.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BaseLayout.astro",
               "DocumentMoniker": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\layouts\\BaseLayout.astro",
               "RelativeDocumentMoniker": "src\\layouts\\BaseLayout.astro",
               "ToolTip": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\layouts\\BaseLayout.astro",
               "RelativeToolTip": "src\\layouts\\BaseLayout.astro",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-01-31T15:47:33.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.md",
               "DocumentMoniker": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\index.md",
               "RelativeDocumentMoniker": "src\\pages\\index.md",
               "ToolTip": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\index.md",
               "RelativeToolTip": "src\\pages\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-31T15:46:31.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "contact.md",
               "DocumentMoniker": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\contact.md",
               "RelativeDocumentMoniker": "src\\pages\\contact.md",
@@ -77,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "about.md",
               "DocumentMoniker": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\about.md",
               "RelativeDocumentMoniker": "src\\pages\\about.md",
               "ToolTip": "C:\\Users\\wjd4x\\source\\repos\\wjdecker.github.io\\src\\pages\\about.md",
               "RelativeToolTip": "src\\pages\\about.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADhAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-31T15:46:30.737Z",
               "EditorCaption": ""

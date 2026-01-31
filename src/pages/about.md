@@ -5,8 +5,7 @@ layout: ../layouts/BaseLayout.astro
 ---
 
 ## Personal:
-*From Michigan to Virginia to Florida to California to Idaho.* I grew up in Michigan and Virginia. I received my PhD from the University of Virginia in Engineering Physics and my research was in the field of chaos theory. Joining a medical device startup allowed me to go to Florida, then California. After living in California from 1997 to 2020, I now reside with my wife in Idaho on the Western Slopes of the Grand Tetons, on the other side of the range from Jackson, Wyoming.
-
+*From Michigan to Virginia to Florida to California to Idaho.*  I grew up in Michigan and Virginia. I received my PhD from the University of Virginia in Engineering Physics and my research was in the field of chaos theory. Joining a medical device startup allowed me to live in Florida, then California. After living in California from 1997 to 2020, I now reside with my wife in Idaho on the Western Slopes of the Grand Tetons, on the other side of the range from Jackson, Wyoming.
 ## Professional: 
 During my career I've spent time performing six main functions  
 1) Strategic Planning  
